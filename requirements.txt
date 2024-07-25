@@ -1,0 +1,14 @@
+transformers==4.42.4
+accelerate==0.32.1
+bitsandbytes==0.43.1
+peft==0.11.1
+datasets==2.20.0
+sentencepiece==0.2.0
+protobuf==5.27.2
+pillow==10.4.0
+matplotlib==3.9.1
+python-dotenv==1.0.1
+pydantic==2.8.2
+
+supervision==0.22.0
+torchvision==0.18.1
