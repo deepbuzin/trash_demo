@@ -27,3 +27,10 @@ We built this library to simplify the process of training adapters for multimoda
 It comes with presets to train LLMs to do segmentation, extraction and other tasks on images or video.
 
 Take a look at the repo [here](https://github.com/tensorsense/training_toolkit).
+
+## Checkpoints
+
+In case you just want to run the demo to see what it does, use these checkpoints:
+
+- https://huggingface.co/koolkittykat/paligemma_trash_json_adapter
+- https://huggingface.co/koolkittykat/paligemma_trash_segm_adapter
