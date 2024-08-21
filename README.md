@@ -1,4 +1,4 @@
-# ♻️ Trash sorting assistant
+# ♻️ Trash Sorting Assistant
 
 Sorting trash may sound like a thing you only need to figure out once.
 
